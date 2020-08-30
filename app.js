@@ -160,7 +160,7 @@ function buildTeamList() {
 
 function buildHtmlPage() {
     let newFile = fs.readFileSync("./templates/main.html")
-    fs.writeFileSync("./output/teamPage.html", newFile, function (err) {
+    fs.writeFileSync("./output/team.html", newFile, function (err) {
         if (err) throw err;
     })
 
@@ -175,7 +175,7 @@ function buildHtmlPage() {
             buildHtmlCard("intern", member.getName(), member.getId(), member.getEmail(), "School: " + member.getSchool());
         }
     }
-    fs.appendFileSync("./output/teamPage.html", "</div></main></body></html>", function (err) {
+    fs.appendFileSync("./output/team.html", "</div></main></body></html>", function (err) {
         if (err) throw err;
     });
     console.log("Page tags closed! Operation completed.")
