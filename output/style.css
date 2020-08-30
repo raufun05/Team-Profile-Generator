@@ -1,0 +1,15 @@
+.card-header {
+    background-color: aquamarine;
+}
+.container{
+    background: radial-gradient(black, transparent);
+}
+body{
+    background: floralwhite;
+}
+.team-heading{
+    background-color:lightcoral ;
+}
+.card {
+    width: 100%;
+}
