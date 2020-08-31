@@ -24,6 +24,9 @@ How do you deliver this? Here are some guidelines:
 ![Employee Summary 1](./Assets/10-OOP-homework-demo-1.png)
 ![Employee Summary 2](./Assets/10-OOP-homework-demo-2.png)
 
+## Picture of Team Tiger
+![Team Tiger](./Assets/10-OOP-homework-demo-1.png)
+
 In the `Develop` folder, there is a `package.json`, so make sure to `npm install`.
 
 The dependencies are, [jest](https://jestjs.io/) for running the provided tests, and [inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user.
@@ -168,6 +171,8 @@ We would like you to have well over 200 commits by graduation, so commit early a
 You are required to submit the following:
 
 * The URL of the GitHub repository
+
+https://github.com/raufun05/Team-Profile-Generator
 
 * A video demonstrating the entirety of the app's functionality 
 
