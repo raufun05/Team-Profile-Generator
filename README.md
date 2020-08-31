@@ -24,8 +24,10 @@ How do you deliver this? Here are some guidelines:
 ![Employee Summary 1](./Assets/10-OOP-homework-demo-1.png)
 ![Employee Summary 2](./Assets/10-OOP-homework-demo-2.png)
 
+
 ## Picture of Team Tiger
-![Team Tiger](./Assets/10-OOP-homework-demo-1.png)
+![Team Tiger](./Assets/Team_Tiger_App.png)
+
 
 In the `Develop` folder, there is a `package.json`, so make sure to `npm install`.
 
@@ -175,6 +177,8 @@ You are required to submit the following:
 https://github.com/raufun05/Team-Profile-Generator
 
 * A video demonstrating the entirety of the app's functionality 
+
+https://drive.google.com/file/d/1OXuW6lPjojMzFi9-DFfc1q2OdsMouFEx/view
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
