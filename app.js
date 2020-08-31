@@ -7,7 +7,7 @@ const fs = require("fs");
 const util = require("util");
 
 const mkdirAsync = util.promisify(fs.mkdir);
-const writeFileAsync =util.promisify(fs.writeFile)
+const writeFileAsync =util.promisify(fs.writeFile);
 
 const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
@@ -46,7 +46,7 @@ const confirm = [
     {
         type: "confirm",
         name: "adding",
-        message: "Do you want to input more employee information?"
+        message: "Do you want to input more employee's information?"
     }  
 ]
 
